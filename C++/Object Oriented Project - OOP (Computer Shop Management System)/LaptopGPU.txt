@@ -1,0 +1,11 @@
+Intel Xe
+Intel Xe
+GTX 1650
+RTX 3060
+RTX 3050
+RTX 3070
+RTX 3060
+Intel Xe
+GTX 1660
+Intel Xe
+RTX3050

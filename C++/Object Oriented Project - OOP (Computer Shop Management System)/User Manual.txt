@@ -1,0 +1,16 @@
+USER MANUAL
+
+CUSTOMER
+1.Customer can straight forward to take order and others function of our system without any registration.
+2.When customer proceed to take order, the system will required a name and a date from customer.
+3.Repeatly take order is allowed with different receipt number.
+4.After taking order, the order is allowed to modify and delete.
+5.Customer can view the TOTAL BILL after taking the order at the PRINT RECEIPT section.
+
+ADMIN
+1.An admin must be register by another admin.(Can't register himself)
+2.The new admin can view their own username and password before log-in to the system.
+3.Admin had given the permission to add product,add admin and to view the daily total sale of the system.
+4.After logged out the admin page, the username and password are required to log-in back the admin page.
+
+Thankyou for your cooperation
